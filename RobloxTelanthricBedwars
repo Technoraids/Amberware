@@ -529,7 +529,7 @@ seven.TextWrapped = true
 
 -- Scripts:
 
-local function JDZKEW_fake_script() -- Arrow.LocalScript 
+local function DYJBCP_fake_script() -- Arrow.LocalScript 
 	local script = Instance.new('LocalScript', Arrow)
 
 	local TweenService = game:GetService("TweenService")
@@ -562,8 +562,8 @@ local function JDZKEW_fake_script() -- Arrow.LocalScript
 		end
 	end)
 end
-coroutine.wrap(JDZKEW_fake_script)()
-local function PYGM_fake_script() -- killbutton.LocalScript 
+coroutine.wrap(DYJBCP_fake_script)()
+local function LBXYSF_fake_script() -- killbutton.LocalScript 
 	local script = Instance.new('LocalScript', killbutton)
 
 	
@@ -701,16 +701,16 @@ local function PYGM_fake_script() -- killbutton.LocalScript
 	
 	
 end
-coroutine.wrap(PYGM_fake_script)()
-local function LVWYNCX_fake_script() -- TitleFrame.Dragify 
+coroutine.wrap(LBXYSF_fake_script)()
+local function AIORVD_fake_script() -- TitleFrame.Dragify 
 	local script = Instance.new('LocalScript', TitleFrame)
 
 	script.Parent.Draggable = true
 	script.Parent.Active = true
 	script.Parent.Selectable = true
 end
-coroutine.wrap(LVWYNCX_fake_script)()
-local function WWHCE_fake_script() -- Arrow_2.LocalScript 
+coroutine.wrap(AIORVD_fake_script)()
+local function IBHJXW_fake_script() -- Arrow_2.LocalScript 
 	local script = Instance.new('LocalScript', Arrow_2)
 
 	local TweenService = game:GetService("TweenService")
@@ -743,8 +743,8 @@ local function WWHCE_fake_script() -- Arrow_2.LocalScript
 		end
 	end)
 end
-coroutine.wrap(WWHCE_fake_script)()
-local function OJZET_fake_script() -- Fly.FlyingScript 
+coroutine.wrap(IBHJXW_fake_script)()
+local function FGNMW_fake_script() -- Fly.FlyingScript 
 	local script = Instance.new('LocalScript', Fly)
 
 	
@@ -763,8 +763,8 @@ local function OJZET_fake_script() -- Fly.FlyingScript
 		end
 	end)
 end
-coroutine.wrap(OJZET_fake_script)()
-local function MLCIGXD_fake_script() -- Fly.LocalScript 
+coroutine.wrap(FGNMW_fake_script)()
+local function SDGQSLV_fake_script() -- Fly.LocalScript 
 	local script = Instance.new('LocalScript', Fly)
 
 	local open = false
@@ -779,8 +779,8 @@ local function MLCIGXD_fake_script() -- Fly.LocalScript
 		end
 	end)
 end
-coroutine.wrap(MLCIGXD_fake_script)()
-local function HNGUVKG_fake_script() -- Speed.speedScript 
+coroutine.wrap(SDGQSLV_fake_script)()
+local function NISFG_fake_script() -- Speed.speedScript 
 	local script = Instance.new('LocalScript', Speed)
 
 	local on = false
@@ -807,16 +807,16 @@ local function HNGUVKG_fake_script() -- Speed.speedScript
 		end
 	end)
 end
-coroutine.wrap(HNGUVKG_fake_script)()
-local function VTWZLJ_fake_script() -- TitleFrame2.Dragify 
+coroutine.wrap(NISFG_fake_script)()
+local function TLNK_fake_script() -- TitleFrame2.Dragify 
 	local script = Instance.new('LocalScript', TitleFrame2)
 
 	script.Parent.Draggable = true
 	script.Parent.Active = true
 	script.Parent.Selectable = true
 end
-coroutine.wrap(VTWZLJ_fake_script)()
-local function VAACP_fake_script() -- Arrow_3.LocalScript 
+coroutine.wrap(TLNK_fake_script)()
+local function ZFRQ_fake_script() -- Arrow_3.LocalScript 
 	local script = Instance.new('LocalScript', Arrow_3)
 
 	local TweenService = game:GetService("TweenService")
@@ -849,8 +849,8 @@ local function VAACP_fake_script() -- Arrow_3.LocalScript
 		end
 	end)
 end
-coroutine.wrap(VAACP_fake_script)()
-local function PVHZG_fake_script() -- Nametags.ESPScript 
+coroutine.wrap(ZFRQ_fake_script)()
+local function MQLCAAQ_fake_script() -- Nametags.ESPScript 
 	local script = Instance.new('LocalScript', Nametags)
 
 	local on = false
@@ -907,8 +907,8 @@ local function PVHZG_fake_script() -- Nametags.ESPScript
 		end
 	end)
 end
-coroutine.wrap(PVHZG_fake_script)()
-local function JKGYYEW_fake_script() -- ArrayList.ArrayListScript 
+coroutine.wrap(MQLCAAQ_fake_script)()
+local function QXGIH_fake_script() -- ArrayList.ArrayListScript 
 	local script = Instance.new('LocalScript', ArrayList)
 
 	local on = false
@@ -927,16 +927,16 @@ local function JKGYYEW_fake_script() -- ArrayList.ArrayListScript
 		end
 	end)
 end
-coroutine.wrap(JKGYYEW_fake_script)()
-local function XZCKJI_fake_script() -- TitleFrame3.Dragify 
+coroutine.wrap(QXGIH_fake_script)()
+local function EOZNQ_fake_script() -- TitleFrame3.Dragify 
 	local script = Instance.new('LocalScript', TitleFrame3)
 
 	script.Parent.Draggable = true
 	script.Parent.Active = true
 	script.Parent.Selectable = true
 end
-coroutine.wrap(XZCKJI_fake_script)()
-local function GETVM_fake_script() -- Arrow_4.LocalScript 
+coroutine.wrap(EOZNQ_fake_script)()
+local function XNKBIML_fake_script() -- Arrow_4.LocalScript 
 	local script = Instance.new('LocalScript', Arrow_4)
 
 	local TweenService = game:GetService("TweenService")
@@ -969,8 +969,8 @@ local function GETVM_fake_script() -- Arrow_4.LocalScript
 		end
 	end)
 end
-coroutine.wrap(GETVM_fake_script)()
-local function RDZOGU_fake_script() -- Credits.CreditsScript 
+coroutine.wrap(XNKBIML_fake_script)()
+local function CAGHPA_fake_script() -- Credits.CreditsScript 
 	local script = Instance.new('LocalScript', Credits)
 
 	local on = false
@@ -992,8 +992,8 @@ local function RDZOGU_fake_script() -- Credits.CreditsScript
 	
 	
 end
-coroutine.wrap(RDZOGU_fake_script)()
-local function BJPSSCF_fake_script() -- Nuker.CreditsScript 
+coroutine.wrap(CAGHPA_fake_script)()
+local function MYPXI_fake_script() -- Nuker.CreditsScript 
 	local script = Instance.new('LocalScript', Nuker)
 
 	local on = false
@@ -1032,8 +1032,8 @@ local function BJPSSCF_fake_script() -- Nuker.CreditsScript
 	end)
 	
 end
-coroutine.wrap(BJPSSCF_fake_script)()
-local function VJMJT_fake_script() -- Antivoid.CreditsScript 
+coroutine.wrap(MYPXI_fake_script)()
+local function EMDEB_fake_script() -- Antivoid.CreditsScript 
 	local script = Instance.new('LocalScript', Antivoid)
 
 	local on = false
@@ -1061,16 +1061,16 @@ local function VJMJT_fake_script() -- Antivoid.CreditsScript
 		end
 	end)
 end
-coroutine.wrap(VJMJT_fake_script)()
-local function AFGYPUC_fake_script() -- TitleFrame4.Dragify 
+coroutine.wrap(EMDEB_fake_script)()
+local function WSQQEQM_fake_script() -- TitleFrame4.Dragify 
 	local script = Instance.new('LocalScript', TitleFrame4)
 
 	script.Parent.Draggable = true
 	script.Parent.Active = true
 	script.Parent.Selectable = true
 end
-coroutine.wrap(AFGYPUC_fake_script)()
-local function GIMIVN_fake_script() -- Description.RAINBOW 
+coroutine.wrap(WSQQEQM_fake_script)()
+local function SCAG_fake_script() -- Description.RAINBOW 
 	local script = Instance.new('LocalScript', Description)
 
 	local text = script.Parent
@@ -1126,8 +1126,8 @@ local function GIMIVN_fake_script() -- Description.RAINBOW
 		end
 	end
 end
-coroutine.wrap(GIMIVN_fake_script)()
-local function YJSK_fake_script() -- TextLabel.RAINBOW 
+coroutine.wrap(SCAG_fake_script)()
+local function CBEDN_fake_script() -- TextLabel.RAINBOW 
 	local script = Instance.new('LocalScript', TextLabel)
 
 	local text = script.Parent
@@ -1183,8 +1183,8 @@ local function YJSK_fake_script() -- TextLabel.RAINBOW
 		end
 	end
 end
-coroutine.wrap(YJSK_fake_script)()
-local function RSMEL_fake_script() -- amberware.OpenGui 
+coroutine.wrap(CBEDN_fake_script)()
+local function XJOE_fake_script() -- amberware.OpenGui 
 	local script = Instance.new('LocalScript', amberware)
 
 	local UIS = game:GetService("UserInputService")
@@ -1202,8 +1202,8 @@ local function RSMEL_fake_script() -- amberware.OpenGui
 		end
 	end)
 end
-coroutine.wrap(RSMEL_fake_script)()
-local function OGAU_fake_script() -- one.RAINBOW 
+coroutine.wrap(XJOE_fake_script)()
+local function BLJJFMU_fake_script() -- one.RAINBOW 
 	local script = Instance.new('LocalScript', one)
 
 	local text = script.Parent
@@ -1259,8 +1259,8 @@ local function OGAU_fake_script() -- one.RAINBOW
 		end
 	end
 end
-coroutine.wrap(OGAU_fake_script)()
-local function BRNJE_fake_script() -- two.RAINBOW 
+coroutine.wrap(BLJJFMU_fake_script)()
+local function TDYYJ_fake_script() -- two.RAINBOW 
 	local script = Instance.new('LocalScript', two)
 
 	local text = script.Parent
@@ -1316,8 +1316,8 @@ local function BRNJE_fake_script() -- two.RAINBOW
 		end
 	end
 end
-coroutine.wrap(BRNJE_fake_script)()
-local function EZGDIZH_fake_script() -- four.RAINBOW 
+coroutine.wrap(TDYYJ_fake_script)()
+local function EQZCHXD_fake_script() -- four.RAINBOW 
 	local script = Instance.new('LocalScript', four)
 
 	local text = script.Parent
@@ -1373,8 +1373,8 @@ local function EZGDIZH_fake_script() -- four.RAINBOW
 		end
 	end
 end
-coroutine.wrap(EZGDIZH_fake_script)()
-local function NCSAV_fake_script() -- eight.RAINBOW 
+coroutine.wrap(EQZCHXD_fake_script)()
+local function EOMWN_fake_script() -- eight.RAINBOW 
 	local script = Instance.new('LocalScript', eight)
 
 	local text = script.Parent
@@ -1430,8 +1430,8 @@ local function NCSAV_fake_script() -- eight.RAINBOW
 		end
 	end
 end
-coroutine.wrap(NCSAV_fake_script)()
-local function ORVOS_fake_script() -- six.RAINBOW 
+coroutine.wrap(EOMWN_fake_script)()
+local function FEZKXDR_fake_script() -- six.RAINBOW 
 	local script = Instance.new('LocalScript', six)
 
 	local text = script.Parent
@@ -1487,8 +1487,8 @@ local function ORVOS_fake_script() -- six.RAINBOW
 		end
 	end
 end
-coroutine.wrap(ORVOS_fake_script)()
-local function FPJHNSS_fake_script() -- three.RAINBOW 
+coroutine.wrap(FEZKXDR_fake_script)()
+local function PXFRQW_fake_script() -- three.RAINBOW 
 	local script = Instance.new('LocalScript', three)
 
 	local text = script.Parent
@@ -1544,8 +1544,8 @@ local function FPJHNSS_fake_script() -- three.RAINBOW
 		end
 	end
 end
-coroutine.wrap(FPJHNSS_fake_script)()
-local function ZZKC_fake_script() -- five.RAINBOW 
+coroutine.wrap(PXFRQW_fake_script)()
+local function BFYFMVK_fake_script() -- five.RAINBOW 
 	local script = Instance.new('LocalScript', five)
 
 	local text = script.Parent
@@ -1601,8 +1601,8 @@ local function ZZKC_fake_script() -- five.RAINBOW
 		end
 	end
 end
-coroutine.wrap(ZZKC_fake_script)()
-local function SNDWGR_fake_script() -- seven.RAINBOW 
+coroutine.wrap(BFYFMVK_fake_script)()
+local function YZIRZHD_fake_script() -- seven.RAINBOW 
 	local script = Instance.new('LocalScript', seven)
 
 	local text = script.Parent
@@ -1658,16 +1658,16 @@ local function SNDWGR_fake_script() -- seven.RAINBOW
 		end
 	end
 end
-coroutine.wrap(SNDWGR_fake_script)()
-local function VXOVU_fake_script() -- TextLabel_2.Dragify 
+coroutine.wrap(YZIRZHD_fake_script)()
+local function FGIGYL_fake_script() -- TextLabel_2.Dragify 
 	local script = Instance.new('LocalScript', TextLabel_2)
 
 	script.Parent.Draggable = true
 	script.Parent.Active = true
 	script.Parent.Selectable = true
 end
-coroutine.wrap(VXOVU_fake_script)()
-local function GRHXPEU_fake_script() -- TextLabel_2.RAINBOW 
+coroutine.wrap(FGIGYL_fake_script)()
+local function RVYTK_fake_script() -- TextLabel_2.RAINBOW 
 	local script = Instance.new('LocalScript', TextLabel_2)
 
 	local text = script.Parent
@@ -1723,8 +1723,8 @@ local function GRHXPEU_fake_script() -- TextLabel_2.RAINBOW
 		end
 	end
 end
-coroutine.wrap(GRHXPEU_fake_script)()
-local function OFISCIR_fake_script() -- ArrayList_2.LocalScript 
+coroutine.wrap(RVYTK_fake_script)()
+local function EEZAIM_fake_script() -- ArrayList_2.LocalScript 
 	local script = Instance.new('LocalScript', ArrayList_2)
 
 	local UIS = game:GetService("UserInputService")
@@ -1746,4 +1746,4 @@ local function OFISCIR_fake_script() -- ArrayList_2.LocalScript
 		end
 	end)
 end
-coroutine.wrap(OFISCIR_fake_script)()
+coroutine.wrap(EEZAIM_fake_script)()
