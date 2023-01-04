@@ -66,7 +66,7 @@ local TextLabel_3 = Instance.new("TextLabel")
 --Properties:
 
 MainAmber.Name = "Main Amber"
-MainAmber.Parent = game.Players.LocalPlayer:WaitForChild("PlayerGui")
+MainAmber.Parent = game.CoreGui
 MainAmber.ZIndexBehavior = Enum.ZIndexBehavior.Sibling
 
 ArrayList.Name = "ArrayList"
